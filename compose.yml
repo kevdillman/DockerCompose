@@ -1,0 +1,7 @@
+services:
+
+  ubuntu:
+    image: kevdillman/dillman
+
+  fedora:
+    image: kevdillman/fedora
